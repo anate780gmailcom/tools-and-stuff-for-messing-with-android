@@ -37,12 +37,8 @@ Located in `/extras`
 ├── extras/
 └── scans/
 ## Requirements
-
+nmap
 Install in Termux:
-
-    pkg update
-    pkg install nmap
-## Install / Setup
 
 In Termux, install nmap:
 
