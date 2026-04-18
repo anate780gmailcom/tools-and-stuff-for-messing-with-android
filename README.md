@@ -47,7 +47,7 @@ In Termux, install nmap:
 
 Clone the repo:
 
- git clone https://github.com/N-scout/tools-and-stuff-for-messing-with-android.git
+ git clone https://github.com/anate780@gmailcom/tools-and-stuff-for-messing-with-android.git
 
 Go into the repo folder:
 
