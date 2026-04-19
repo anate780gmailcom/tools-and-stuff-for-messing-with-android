@@ -47,7 +47,7 @@ In Termux, install nmap:
 
 Clone the repo:
 
- git clone https://github.com/anate780@gmailcom/tools-and-stuff-for-messing-with-android.git
+ git clone https://github.com/anate780gmailcom/tools-and-stuff-for-messing-with-android.git
 
 Go into the repo folder:
 
@@ -56,8 +56,7 @@ Go into the repo folder:
 Make scripts executable:
 
     chmod +x scout.sh
-    chmod +x extras/*.sh
-
+    
 Run the main tool:
 
     ./scout.sh
